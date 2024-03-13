@@ -65,7 +65,7 @@ plt.show()
 
 <H3>Output:</H3>
 
-![409ex4](https://github.com/Dharshini-DS/Ex-5--AAI/assets/93427345/c3e65d74-c4ae-44a4-a4dd-e81a19d2556e)
+![409ex5](https://github.com/Dharshini-DS/Ex-5--AAI/assets/93427345/da31248f-508f-42bb-84fe-c9e85bc79c72)
 
 
 <H3>Results:</H3>
